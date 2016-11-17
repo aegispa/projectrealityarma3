@@ -10,6 +10,7 @@ class CfgCLibLocalisation {
                 German = "%1 (%2 Spawns übrig)";
                 Polish = "%1 (Pozostało %2 odrodzeń)";
                 Korean = "%1 (스폰 %2 남음)";
+                Spanish = "%1 (%2 spawns restantes)";
             };
         };
 
@@ -21,6 +22,7 @@ class CfgCLibLocalisation {
                 German = "Neues Fahrzeug verfügbar: %1";
                 Polish = "Nowy pojazd dostępny: %1";
                 Korean = "신규 장비 사용 가능: %1";
+                Spanish = "Vehículo nuevo disponible: %1";
             };
         };
 
@@ -32,6 +34,7 @@ class CfgCLibLocalisation {
                 German = "Du musst %1 Sekunden warten bis du die Seite wieder wechseln kannst";
                 Polish = "Musisz poczekać %1 sekund przed ponowną zmianą strony";
                 Korean = "%1초 뒤에 세력을 변경하실 수 있습니다";
+                English = "Necesitas esperar %1 segundos hasta que puedas cambiar de bando otra vez";
             };
             class MaxPlayerCount {
                 English = "Maximum player count on the enemy side has been reached.";
